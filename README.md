@@ -1,7 +1,7 @@
-#FórumHub API REST
+<h1>FórumHub API REST</h1>
 API REST para la gestión de un fórum con usuarios registrados y autenticación JWT.
 
-Tecnologías
+<h3>Tecnologías</h3>
 Java 21
 
 Spring Boot 3
