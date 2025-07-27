@@ -1,4 +1,4 @@
-FórumHub API REST
+#FórumHub API REST
 API REST para la gestión de un fórum con usuarios registrados y autenticación JWT.
 
 Tecnologías
